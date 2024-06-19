@@ -74,4 +74,6 @@ Ceci est un Projet **d'analyse** de donné avec SSAS, Excel et PowerBI basé sur
  ![Modele](img/KPI.png)
 ### Visuelle 2
   ![Modele](img/Prévision.png)
+### Animation
+![Modele](img/Animationpbi.gif)
 ## Conclusion
