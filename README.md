@@ -69,7 +69,8 @@ Ceci est un Projet **d'analyse** de donné avec SSAS, Excel et PowerBI basé sur
 ### Histogramme
  
 ## PBI
- 
+ ![Modele](img/KPI.png)
+ ![Modele](img/Prévision.png)
 ### Visuelle 1
  
 ### Visuelle 2
