@@ -62,17 +62,16 @@ Ceci est un Projet **d'analyse** de donné avec SSAS, Excel et PowerBI basé sur
 
 
 ## Excel
- ![Modele](img/Tableau.png)
- ![Modele](img/visuel.png)
+ 
+ 
  ### Pivot Tabl
- 
+ ![Modele](img/Tableau.png)
 ### Histogramme
- 
+ ![Modele](img/visuel.png)
 ## PBI
- ![Modele](img/KPI.png)
- ![Modele](img/Prévision.png)
+
 ### Visuelle 1
- 
+ ![Modele](img/KPI.png)
 ### Visuelle 2
- 
+  ![Modele](img/Prévision.png)
 ## Conclusion
