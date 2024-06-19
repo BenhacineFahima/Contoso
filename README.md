@@ -58,10 +58,12 @@ Ceci est un Projet d'analyse de donné avec SSAS, Excel et PowerBI basé sur la 
 Ceci est un Projet **d'analyse** de donné avec SSAS, Excel et PowerBI basé sur la base de donné Contoso
  
 ## Modèle Tabulaire
- 
+![Modele](img/modele.png)
+
+
 ## Excel
  
-### Pivot Table
+### Pivot Tabl
  
 ### Histogramme
  
