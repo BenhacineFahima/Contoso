@@ -1,4 +1,3 @@
-[09:54] Khemais Abdallah (Invité)
 # PROJET Contoso
  
 ## Table de matière
@@ -37,6 +36,7 @@ Ceci est un Projet d'analyse de donné avec SSAS, Excel et PowerBI basé sur la 
  
  
 [09:58] Khemais Abdallah (Invité)
+
 # PROJET Contoso
  
 ## Table de matière
